@@ -40,4 +40,29 @@
         android:layout_below="@+id/timerTextView"
         android:imeOptions="actionDone"/>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/zval"
+        android:layout_above="@+id/button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="50dp"
+        android:text="test" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/yval"
+        android:layout_above="@+id/zval"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/xval"
+        android:layout_above="@+id/yval"
+        android:layout_centerHorizontal="true" />
+
 </RelativeLayout>

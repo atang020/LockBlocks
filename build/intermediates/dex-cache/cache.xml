@@ -2,6 +2,37 @@
 <items version="2" >
 
     <item
+<<<<<<< HEAD
+<<<<<<< HEAD
+        jar="/Users/edward/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/edward/Desktop/LockBlocks - ET/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-febc20851cd4162f2eb0ee5132286cc0760063ed.jar" />
+    </item>
+    <item
+        jar="/Users/edward/Desktop/LockBlocks - ET/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/edward/Desktop/LockBlocks - ET/app/build/intermediates/pre-dexed/debug/classes-b2bc8760e0660bc1cdd9952ef66dd5a7e18296d8.jar" />
+    </item>
+    <item
+        jar="/Users/edward/Desktop/LockBlocks - ET/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/edward/Desktop/LockBlocks - ET/app/build/intermediates/pre-dexed/debug/classes-38f392108b4959408fc879ff4a72ee7fce2605aa.jar" />
+    </item>
+    <item
+        jar="/Users/edward/Desktop/LockBlocks - ET/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/edward/Desktop/LockBlocks - ET/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-b7bb7b09d4a5de70b86abf464f34a105608fe221.jar" />
+=======
+=======
+>>>>>>> origin/master
         jar="/Users/atang020/LockBlocks/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -28,6 +59,10 @@
         revision="21.1.2"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
         <dex dex="/Users/atang020/LockBlocks/app/build/intermediates/pre-dexed/debug/classes-b0ef890ac5b4d3e0c4492326aef0970eb9e02faf.jar" />
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> origin/master
     </item>
 
 </items>
